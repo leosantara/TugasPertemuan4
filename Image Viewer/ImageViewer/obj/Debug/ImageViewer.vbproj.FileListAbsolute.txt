@@ -1,0 +1,15 @@
+D:\Latihan\Desktop\Image Viewer\ImageViewer\bin\Debug\ImageViewer.exe.config
+D:\Latihan\Desktop\Image Viewer\ImageViewer\bin\Debug\ImageViewer.exe
+D:\Latihan\Desktop\Image Viewer\ImageViewer\bin\Debug\ImageViewer.pdb
+D:\Latihan\Desktop\Image Viewer\ImageViewer\bin\Debug\ImageViewer.xml
+D:\Latihan\Desktop\Image Viewer\ImageViewer\bin\Debug\gma.Drawing.ImageInfo.dll
+D:\Latihan\Desktop\Image Viewer\ImageViewer\obj\Debug\ImageViewer.vbproj.AssemblyReference.cache
+D:\Latihan\Desktop\Image Viewer\ImageViewer\obj\Debug\ImageViewer.vbproj.SuggestedBindingRedirects.cache
+D:\Latihan\Desktop\Image Viewer\ImageViewer\obj\Debug\ImageViewer.Form1.resources
+D:\Latihan\Desktop\Image Viewer\ImageViewer\obj\Debug\ImageViewer.Resources.resources
+D:\Latihan\Desktop\Image Viewer\ImageViewer\obj\Debug\ImageViewer.vbproj.GenerateResource.cache
+D:\Latihan\Desktop\Image Viewer\ImageViewer\obj\Debug\ImageViewer.vbproj.CoreCompileInputs.cache
+D:\Latihan\Desktop\Image Viewer\ImageViewer\obj\Debug\ImageViewer.vbproj.CopyComplete
+D:\Latihan\Desktop\Image Viewer\ImageViewer\obj\Debug\ImageViewer.exe
+D:\Latihan\Desktop\Image Viewer\ImageViewer\obj\Debug\ImageViewer.xml
+D:\Latihan\Desktop\Image Viewer\ImageViewer\obj\Debug\ImageViewer.pdb
