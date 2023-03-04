@@ -1,0 +1,15 @@
+D:\Latihan\Desktop\tes\NotepadKu\bin\Debug\NotepadKu.exe.config
+D:\Latihan\Desktop\tes\NotepadKu\bin\Debug\NotepadKu.exe
+D:\Latihan\Desktop\tes\NotepadKu\bin\Debug\NotepadKu.pdb
+D:\Latihan\Desktop\tes\NotepadKu\bin\Debug\NotepadKu.xml
+D:\Latihan\Desktop\tes\NotepadKu\bin\Debug\gma.Drawing.ImageInfo.dll
+D:\Latihan\Desktop\tes\NotepadKu\obj\Debug\NotepadKu.vbproj.AssemblyReference.cache
+D:\Latihan\Desktop\tes\NotepadKu\obj\Debug\NotepadKu.vbproj.SuggestedBindingRedirects.cache
+D:\Latihan\Desktop\tes\NotepadKu\obj\Debug\NotepadKu.Form1.resources
+D:\Latihan\Desktop\tes\NotepadKu\obj\Debug\NotepadKu.Resources.resources
+D:\Latihan\Desktop\tes\NotepadKu\obj\Debug\NotepadKu.vbproj.GenerateResource.cache
+D:\Latihan\Desktop\tes\NotepadKu\obj\Debug\NotepadKu.vbproj.CoreCompileInputs.cache
+D:\Latihan\Desktop\tes\NotepadKu\obj\Debug\NotepadKu.vbproj.CopyComplete
+D:\Latihan\Desktop\tes\NotepadKu\obj\Debug\NotepadKu.exe
+D:\Latihan\Desktop\tes\NotepadKu\obj\Debug\NotepadKu.xml
+D:\Latihan\Desktop\tes\NotepadKu\obj\Debug\NotepadKu.pdb
